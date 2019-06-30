@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="right-down" width="20" height="16" tilewidth="64" tileheight="64" infinite="0" nextobjectid="307">
+ <tileset firstgid="1" name="tilesheet_complete64" tilewidth="64" tileheight="64" tilecount="540" columns="27">
+  <image source="tilesheet_complete64.png" width="1728" height="1280"/>
+ </tileset>
+ <layer name="map1" width="20" height="16">
+  <data>
+   <tile gid="3"/>
+   <tile gid="303"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="303"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="298"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="272"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="271"/>
+   <tile gid="273"/>
+   <tile gid="299"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="271"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="299"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="298"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="272"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="298"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="272"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="271"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="299"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="271"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="299"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="300"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="298"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="273"/>
+   <tile gid="299"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+  </data>
+ </layer>
+ <layer name="map2" width="20" height="16">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="464"/>
+   <tile gid="464"/>
+   <tile gid="464"/>
+   <tile gid="464"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="465"/>
+   <tile gid="465"/>
+   <tile gid="465"/>
+   <tile gid="465"/>
+  </data>
+ </layer>
+ <layer name="map3" width="20" height="16">
+  <data>
+   <tile gid="0"/>
+   <tile gid="132"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="316"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="433"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="434"/>
+  </data>
+ </layer>
+ <objectgroup name="place" visible="0">
+  <object id="17" name="place" x="0" y="0" width="64" height="64"/>
+  <object id="24" name="startPoint" x="64" y="0" width="64" height="64"/>
+  <object id="25" name="endPoint" x="832" y="0" width="64" height="64"/>
+  <object id="28" name="menu" x="1024" y="0" width="256" height="1024"/>
+  <object id="29" name="place" x="0" y="64" width="64" height="64"/>
+  <object id="30" name="place" x="0" y="128" width="64" height="64"/>
+  <object id="31" name="place" x="0" y="192" width="64" height="64"/>
+  <object id="32" name="place" x="64" y="192" width="64" height="64"/>
+  <object id="33" name="place" x="128" y="192" width="64" height="64"/>
+  <object id="34" name="place" x="192" y="192" width="64" height="64"/>
+  <object id="35" name="place" x="256" y="192" width="64" height="64"/>
+  <object id="36" name="place" x="320" y="192" width="64" height="64"/>
+  <object id="37" name="place" x="384" y="192" width="64" height="64"/>
+  <object id="38" name="place" x="448" y="192" width="64" height="64"/>
+  <object id="39" name="place" x="448" y="256" width="64" height="64"/>
+  <object id="40" name="place" x="384" y="256" width="64" height="64"/>
+  <object id="43" name="place" x="320" y="256" width="64" height="64"/>
+  <object id="44" name="place" x="256" y="256" width="64" height="64"/>
+  <object id="45" name="place" x="192" y="256" width="64" height="64"/>
+  <object id="46" name="place" x="128" y="256" width="64" height="64"/>
+  <object id="49" name="place" x="64" y="256" width="64" height="64"/>
+  <object id="50" name="place" x="0" y="256" width="64" height="64"/>
+  <object id="69" name="place" x="128" y="0" width="64" height="64"/>
+  <object id="70" name="place" x="192" y="0" width="64" height="64"/>
+  <object id="71" name="place" x="256" y="0" width="64" height="64"/>
+  <object id="72" name="place" x="320" y="0" width="64" height="64"/>
+  <object id="73" name="place" x="384" y="0" width="64" height="64"/>
+  <object id="74" name="place" x="448" y="0" width="64" height="64"/>
+  <object id="75" name="place" x="512" y="0" width="64" height="64"/>
+  <object id="76" name="place" x="576" y="0" width="64" height="64"/>
+  <object id="77" name="place" x="576" y="64" width="64" height="64"/>
+  <object id="78" name="place" x="512" y="64" width="64" height="64"/>
+  <object id="79" name="place" x="448" y="64" width="64" height="64"/>
+  <object id="80" name="place" x="384" y="64" width="64" height="64"/>
+  <object id="81" name="place" x="320" y="64" width="64" height="64"/>
+  <object id="82" name="place" x="256" y="64" width="64" height="64"/>
+  <object id="83" name="place" x="192" y="64" width="64" height="64"/>
+  <object id="84" name="place" x="128" y="64" width="64" height="64"/>
+  <object id="85" name="place" x="0" y="576" width="64" height="64"/>
+  <object id="86" name="place" x="64" y="576" width="64" height="64"/>
+  <object id="87" name="place" x="128" y="576" width="64" height="64"/>
+  <object id="88" name="place" x="192" y="576" width="64" height="64"/>
+  <object id="89" name="place" x="256" y="576" width="64" height="64"/>
+  <object id="90" name="place" x="320" y="576" width="64" height="64"/>
+  <object id="91" name="place" x="384" y="576" width="64" height="64"/>
+  <object id="94" name="place" x="384" y="640" width="64" height="64"/>
+  <object id="95" name="place" x="320" y="640" width="64" height="64"/>
+  <object id="96" name="place" x="256" y="640" width="64" height="64"/>
+  <object id="97" name="place" x="192" y="640" width="64" height="64"/>
+  <object id="98" name="place" x="128" y="640" width="64" height="64"/>
+  <object id="99" name="place" x="64" y="640" width="64" height="64"/>
+  <object id="100" name="place" x="0" y="640" width="64" height="64"/>
+  <object id="104" name="place" x="704" y="832" width="64" height="64"/>
+  <object id="105" name="place" x="768" y="832" width="64" height="64"/>
+  <object id="106" name="place" x="832" y="832" width="64" height="64"/>
+  <object id="107" name="place" x="896" y="832" width="64" height="64"/>
+  <object id="108" name="place" x="960" y="832" width="64" height="64"/>
+  <object id="109" name="place" x="960" y="896" width="64" height="64"/>
+  <object id="110" name="place" x="896" y="896" width="64" height="64"/>
+  <object id="111" name="place" x="832" y="896" width="64" height="64"/>
+  <object id="112" name="place" x="768" y="896" width="64" height="64"/>
+  <object id="113" name="place" x="704" y="896" width="64" height="64"/>
+  <object id="117" name="place" x="192" y="384" width="64" height="64"/>
+  <object id="118" name="place" x="256" y="384" width="64" height="64"/>
+  <object id="119" name="place" x="320" y="384" width="64" height="64"/>
+  <object id="120" name="place" x="384" y="384" width="64" height="64"/>
+  <object id="121" name="place" x="448" y="384" width="64" height="64"/>
+  <object id="122" name="place" x="512" y="384" width="64" height="64"/>
+  <object id="123" name="place" x="576" y="384" width="64" height="64"/>
+  <object id="124" name="place" x="640" y="384" width="64" height="64"/>
+  <object id="125" name="place" x="640" y="448" width="64" height="64"/>
+  <object id="126" name="place" x="576" y="448" width="64" height="64"/>
+  <object id="127" name="place" x="512" y="448" width="64" height="64"/>
+  <object id="128" name="place" x="448" y="448" width="64" height="64"/>
+  <object id="129" name="place" x="384" y="448" width="64" height="64"/>
+  <object id="130" name="place" x="320" y="448" width="64" height="64"/>
+  <object id="131" name="place" x="256" y="448" width="64" height="64"/>
+  <object id="132" name="place" x="192" y="448" width="64" height="64"/>
+  <object id="135" name="place" x="256" y="768" width="64" height="64"/>
+  <object id="136" name="place" x="320" y="768" width="64" height="64"/>
+  <object id="137" name="place" x="384" y="768" width="64" height="64"/>
+  <object id="138" name="place" x="448" y="768" width="64" height="64"/>
+  <object id="139" name="place" x="512" y="768" width="64" height="64"/>
+  <object id="140" name="place" x="576" y="768" width="64" height="64"/>
+  <object id="141" name="place" x="576" y="832" width="64" height="64"/>
+  <object id="142" name="place" x="512" y="832" width="64" height="64"/>
+  <object id="143" name="place" x="448" y="832" width="64" height="64"/>
+  <object id="144" name="place" x="384" y="832" width="64" height="64"/>
+  <object id="145" name="place" x="320" y="832" width="64" height="64"/>
+  <object id="146" name="place" x="256" y="832" width="64" height="64"/>
+  <object id="149" name="place" x="0" y="320" width="64" height="64"/>
+  <object id="150" name="place" x="64" y="320" width="64" height="64"/>
+  <object id="151" name="place" x="64" y="384" width="64" height="64"/>
+  <object id="152" name="place" x="0" y="384" width="64" height="64"/>
+  <object id="153" name="place" x="0" y="448" width="64" height="64"/>
+  <object id="154" name="place" x="64" y="448" width="64" height="64"/>
+  <object id="155" name="place" x="64" y="512" width="64" height="64"/>
+  <object id="156" name="place" x="0" y="512" width="64" height="64"/>
+  <object id="157" name="place" x="704" y="0" width="64" height="64"/>
+  <object id="158" name="place" x="768" y="0" width="64" height="64"/>
+  <object id="159" name="place" x="768" y="64" width="64" height="64"/>
+  <object id="160" name="place" x="704" y="64" width="64" height="64"/>
+  <object id="161" name="place" x="704" y="128" width="64" height="64"/>
+  <object id="162" name="place" x="768" y="128" width="64" height="64"/>
+  <object id="163" name="place" x="768" y="192" width="64" height="64"/>
+  <object id="164" name="place" x="704" y="192" width="64" height="64"/>
+  <object id="165" name="place" x="576" y="256" width="64" height="64"/>
+  <object id="166" name="place" x="640" y="256" width="64" height="64"/>
+  <object id="167" name="place" x="640" y="320" width="64" height="64"/>
+  <object id="168" name="place" x="576" y="320" width="64" height="64"/>
+  <object id="169" name="place" x="576" y="128" width="64" height="64"/>
+  <object id="170" name="place" x="640" y="128" width="64" height="64"/>
+  <object id="171" name="place" x="640" y="192" width="64" height="64"/>
+  <object id="172" name="place" x="576" y="192" width="64" height="64"/>
+  <object id="173" name="place" x="768" y="576" width="64" height="64"/>
+  <object id="174" name="place" x="832" y="576" width="64" height="64"/>
+  <object id="175" name="place" x="832" y="704" width="64" height="64"/>
+  <object id="176" name="place" x="768" y="704" width="64" height="64"/>
+  <object id="181" name="place" x="640" y="576" width="64" height="64"/>
+  <object id="182" name="place" x="704" y="576" width="64" height="64"/>
+  <object id="183" name="place" x="704" y="704" width="64" height="64"/>
+  <object id="184" name="place" x="640" y="704" width="64" height="64"/>
+  <object id="185" name="place" x="512" y="640" width="64" height="64"/>
+  <object id="186" name="place" x="576" y="640" width="64" height="64"/>
+  <object id="187" name="place" x="576" y="704" width="64" height="64"/>
+  <object id="188" name="place" x="512" y="704" width="64" height="64"/>
+  <object id="193" name="place" x="512" y="512" width="64" height="64"/>
+  <object id="194" name="place" x="576" y="512" width="64" height="64"/>
+  <object id="195" name="place" x="576" y="576" width="64" height="64"/>
+  <object id="196" name="place" x="512" y="576" width="64" height="64"/>
+  <object id="197" name="place" x="896" y="0" width="64" height="64"/>
+  <object id="198" name="place" x="960" y="0" width="64" height="64"/>
+  <object id="199" name="place" x="960" y="64" width="64" height="64"/>
+  <object id="200" name="place" x="896" y="64" width="64" height="64"/>
+  <object id="201" name="place" x="896" y="128" width="64" height="64"/>
+  <object id="202" name="place" x="960" y="128" width="64" height="64"/>
+  <object id="203" name="place" x="960" y="192" width="64" height="64"/>
+  <object id="204" name="place" x="896" y="192" width="64" height="64"/>
+  <object id="205" name="place" x="896" y="256" width="64" height="64"/>
+  <object id="206" name="place" x="960" y="256" width="64" height="64"/>
+  <object id="207" name="place" x="960" y="320" width="64" height="64"/>
+  <object id="208" name="place" x="896" y="320" width="64" height="64"/>
+  <object id="209" name="place" x="768" y="320" width="64" height="64"/>
+  <object id="210" name="place" x="832" y="320" width="64" height="64"/>
+  <object id="211" name="place" x="832" y="384" width="64" height="64"/>
+  <object id="212" name="place" x="768" y="384" width="64" height="64"/>
+  <object id="213" name="place" x="896" y="384" width="64" height="64"/>
+  <object id="214" name="place" x="960" y="384" width="64" height="64"/>
+  <object id="215" name="place" x="960" y="448" width="64" height="64"/>
+  <object id="216" name="place" x="896" y="448" width="64" height="64"/>
+  <object id="217" name="place" x="0" y="704" width="64" height="64"/>
+  <object id="218" name="place" x="64" y="704" width="64" height="64"/>
+  <object id="219" name="place" x="64" y="768" width="64" height="64"/>
+  <object id="220" name="place" x="0" y="768" width="64" height="64"/>
+  <object id="221" name="place" x="0" y="832" width="64" height="64"/>
+  <object id="222" name="place" x="64" y="832" width="64" height="64"/>
+  <object id="223" name="place" x="64" y="896" width="64" height="64"/>
+  <object id="224" name="place" x="0" y="896" width="64" height="64"/>
+  <object id="225" name="place" x="128" y="704" width="64" height="64"/>
+  <object id="226" name="place" x="128" y="768" width="64" height="64"/>
+  <object id="227" name="place" x="128" y="832" width="64" height="64"/>
+  <object id="228" name="place" x="128" y="896" width="64" height="64"/>
+  <object id="229" name="place" x="960" y="512" width="64" height="64"/>
+  <object id="230" name="place" x="960" y="576" width="64" height="64"/>
+  <object id="231" name="place" x="960" y="640" width="64" height="64"/>
+  <object id="232" name="place" x="960" y="704" width="64" height="64"/>
+  <object id="233" name="place" x="896" y="960" width="64" height="64"/>
+  <object id="234" name="place" x="960" y="960" width="64" height="64"/>
+  <object id="235" name="place" x="768" y="960" width="64" height="64"/>
+  <object id="236" name="place" x="832" y="960" width="64" height="64"/>
+  <object id="237" name="place" x="640" y="960" width="64" height="64"/>
+  <object id="238" name="place" x="704" y="960" width="64" height="64"/>
+  <object id="239" name="place" x="512" y="960" width="64" height="64"/>
+  <object id="240" name="place" x="576" y="960" width="64" height="64"/>
+  <object id="245" name="place" x="384" y="960" width="64" height="64"/>
+  <object id="246" name="place" x="448" y="960" width="64" height="64"/>
+  <object id="247" name="place" x="256" y="960" width="64" height="64"/>
+  <object id="248" name="place" x="320" y="960" width="64" height="64"/>
+  <object id="249" name="place" x="128" y="960" width="64" height="64"/>
+  <object id="250" name="place" x="192" y="960" width="64" height="64"/>
+  <object id="251" name="place" x="0" y="960" width="64" height="64"/>
+  <object id="252" name="place" x="64" y="960" width="64" height="64"/>
+  <object id="253" name="place" x="832" y="448" width="64" height="64"/>
+  <object id="254" name="place" x="768" y="448" width="64" height="64"/>
+  <object id="255" name="place" x="640" y="0" width="64" height="64"/>
+  <object id="256" name="place" x="640" y="64" width="64" height="64"/>
+  <object id="257" name="place" x="768" y="640" width="64" height="64"/>
+  <object id="258" name="place" x="832" y="640" width="64" height="64"/>
+  <object id="259" name="place" x="640" y="640" width="64" height="64"/>
+  <object id="260" name="place" x="704" y="640" width="64" height="64"/>
+  <object id="261" name="place" x="640" y="512" width="64" height="64"/>
+  <object id="262" name="place" x="960" y="768" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup name="border">
+  <object id="301" name="border" x="-64" y="0" width="64" height="1024"/>
+  <object id="304" name="border" x="0" y="1024" width="1024" height="64"/>
+  <object id="305" name="border" x="1024" y="0" width="64" height="1024"/>
+  <object id="306" name="border" x="0" y="-64" width="1024" height="64"/>
+ </objectgroup>
+ <objectgroup name="turn" visible="0">
+  <object id="285" name="turn_right" x="64" y="192" width="64" height="64"/>
+  <object id="286" name="turn_down" x="576" y="128" width="64" height="64"/>
+  <object id="287" name="turn_left" x="512" y="384" width="64" height="64"/>
+  <object id="288" name="turn_down" x="64" y="320" width="64" height="64"/>
+  <object id="289" name="turn_right" x="128" y="576" width="64" height="64"/>
+  <object id="290" name="turn_right" x="192" y="960" width="64" height="64"/>
+  <object id="291" name="turn_right" x="640" y="704" width="64" height="64"/>
+  <object id="292" name="turn_right" x="704" y="192" width="64" height="64"/>
+  <object id="293" name="turn_down" x="512" y="512" width="64" height="64"/>
+  <object id="294" name="turn_down" x="128" y="704" width="64" height="64"/>
+  <object id="295" name="turn_left" x="448" y="768" width="64" height="64"/>
+  <object id="296" name="turn_left" x="896" y="448" width="64" height="64"/>
+  <object id="297" name="turn_up" x="960" y="768" width="64" height="64"/>
+  <object id="298" name="turn_up" x="704" y="896" width="64" height="64"/>
+  <object id="299" name="turn_up" x="640" y="512" width="64" height="64"/>
+  <object id="300" name="turn_up" x="896" y="256" width="64" height="64"/>
+ </objectgroup>
+</map>

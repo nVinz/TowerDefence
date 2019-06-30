@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" backgroundcolor="#4d538c" nextobjectid="60">
+ <tileset firstgid="1" name="Tiny_Chao_Garden_SonicAdv_3_Tile_Sheet" tilewidth="32" tileheight="32">
+  <image source="images/Tiny_Chao_Garden_SonicAdv_3_Tile_Sheet.png" width="1920" height="192"/>
+ </tileset>
+ <layer name="Слой тайлов 2" width="10" height="10">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+   <tile gid="149"/>
+   <tile gid="278"/>
+   <tile gid="278"/>
+  </data>
+ </layer>
+ <objectgroup name="collision">
+  <object id="4" name="solid" x="0" y="256" width="320" height="64"/>
+  <object id="5" name="player" x="0" y="192" width="32" height="32"/>
+  <object id="6" name="easyEnemy" x="96" y="128" width="200" height="97"/>
+ </objectgroup>
+</map>
